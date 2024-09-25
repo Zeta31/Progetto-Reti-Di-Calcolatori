@@ -6,7 +6,7 @@ Si realizzi una applicazione on line in Node.Js o un Client/Server in linguaggio
 Il gioco consiste nell'indovinare la parola scelta dell'altro giocatore prima che l'altro indovini la propria parola scelta. Per semplificare l'esercizio si consideri un'insieme di parole predefinite raggruppate per lunghezza in modo da far scegliere.
 Si realizzi l'andamento del gioco considerando i due giocatori come dei Client e il Server come banco che riceve i vari tentativi e comunica i risultati.
 - I due Client una volta collegato
-  - Invia una stringa "Nome e cognome" , e attendono la risposta del Server
+    - Invia una stringa "Nome e cognome" , e attendono la risposta del Server
     - Riceve una stringa dal Server con il nome del Giocatore sfidante
     - Se si e' il primo ad essersi collegato
         - sceglie tra le possibili lunghezze delle parole
